@@ -16,9 +16,14 @@
     ],
     "require": {
         "composer/installers": "^1.2",
+        "drupal/admin_toolbar": "^2.0",
+        "drupal/chosen": "^2.9",
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-project-message": "^8.8",
-        "drupal/core-recommended": "^8.8"
+        "drupal/core-recommended": "^8.8",
+        "drupal/entity_browser": "^2.4",
+        "drupal/layout_builder_restrictions": "^2.5",
+        "drupal/views_slideshow": "^4.6"
     },
     "require-dev": {
     },
